@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 
 initialmatrix=np.array([['2','8','3'],['1','6','4'],['7',' ','5']])
@@ -51,10 +45,3 @@ def solve(blankR, blankC):
 
 print("SOLUTION: \n")
 solve(2,1)
-
-
-# In[ ]:
-
-
-
-
